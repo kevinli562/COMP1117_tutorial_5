@@ -1,1 +1,2 @@
-# Greetings from student B
+# Greetings from student A
+print('hello world')
