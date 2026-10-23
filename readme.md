@@ -1,2 +1,2 @@
-# 我想回家
+# Greetings from student A
 print('hello world')
